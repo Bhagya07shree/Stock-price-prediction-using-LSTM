@@ -23,16 +23,26 @@ data dependencies, which is where **LSTM** networks come into play. This project
 Stock-price-prediction-using-LSTM/
 │
 ├── app.py # Streamlit app to run model and show results
+
 ├── Stock price prediction using LSTM.ipynb # Jupyter Notebook for model building and evaluation
+
 ├── lstm_stock_model.h5 # Trained LSTM model file
+
 ├── stock_data.csv # Cleaned and preprocessed data
+
 ├── NSE-Tata-Global-Beverages-Limited.csv # Original stock price dataset
+
 ├── .gitignore
+
 ├── README.md # Project documentation
+
 └── screenshots/ # Folder for UI/output screenshots
 
 📸 Screenshots
 🔹 Web Application Interface
+
+![Screenshot 2025-06-06 102746](https://github.com/user-attachments/assets/a847f0da-88ce-4854-8dd7-43528a3f098c)
+
 ![Screenshot 2025-06-06 102633](https://github.com/user-attachments/assets/935e60c6-025b-4ca8-a82f-a679d9daaff8)
 
 
